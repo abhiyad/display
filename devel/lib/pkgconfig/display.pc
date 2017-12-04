@@ -1,0 +1,8 @@
+prefix=/home/abhishek/catkin_ws/src/display/devel
+
+Name: display
+Description: Description of display
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/abhishek/catkin_ws/src/display/devel/lib 
+Requires: 
